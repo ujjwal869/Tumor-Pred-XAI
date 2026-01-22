@@ -6,10 +6,10 @@ This project leverages a CNN-based deep learning model using **PyTorch** and **V
 
 ## 🔧 Tech Stack
 
-- PyTorch
+-Alexnet(Transfer Learning)
 - VGG16 (Transfer Learning)
 - Grad-CAM (pytorch-grad-cam)
-- CNN, PIL, Torchvision, Matplotlib
+- CNN, PIL, Matplotlib
 
 ---
 
